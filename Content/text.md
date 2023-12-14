@@ -17,5 +17,3 @@ https://github.com/GabrielMani15/VESM3/assets/114151976/3276627f-6396-4a56-8dc7-
 
 
 
-https://github.com/GabrielMani15/VESM3/assets/114151976/a6878af0-edd9-48d9-ba73-f2a681bb9ccb
-
