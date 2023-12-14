@@ -3,7 +3,7 @@
 
 Uppsetning githubs er einföld allir kóðar eru að finna í möppu sme heitir Src, Myndir og video er hægt að finna í Content möppuni siðan rafrás og kerfiskýringar myndir er fundið í möppu sme heitir IotHugsun
 
-###Markmið
+Markmið þess verkefni
 
 Markmið þessara verkefnis var að taka gögn inn í gegnum mælingar og síðan senda yfir á móttakara sem myndi síðan birta niðurstöðunuar á vefsíðu sem myndi birta þetta nokkuð hugulega. Ef litið er aðeins á myndir og video tókst það nú bara ágætislega, að mínu mati finnst mér gögnin vera birt hugulega og fínnasta notandaviðmót.
 
