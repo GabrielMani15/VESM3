@@ -1,7 +1,7 @@
 # VESM3
 ## Skrár og myndir/Video af verkefni 5 
 
-Uppsetning githubs er einföld allir kóðar eru að finna í möppu sme heitir Src, Myndir og video er hægt að finna í Content möppuni siðan rafrás og kerfiskýringar myndir er fundið í möppu sme heitir IotHugsun
+Uppsetning githubs er einföld allir kóðar eru að finna í möppu sme heitir Src, Myndir og video er hægt að finna í Content möppuni siðan rafrás og kerfiskýringar myndir er fundið í möppu sme heitir Iotplanning
 
 ## Markmið þess verkefni
 
